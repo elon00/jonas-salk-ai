@@ -1,0 +1,14 @@
+{
+  "project": "jonas-salk-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "7QZeSGHqFHXzBCJ2nAzwHHk64HGA4MmrFYh6Knhk729k",
+  "vault_account": "HyiXda4yB1n9cABPhtbhupbLr57mkHdjCnbA7RApYv4m",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5tiAzcpBRE3JSkLCKZQFvTSjPdKhpQH36znqvEP2bbShVuKPh8GwcTd6JjFpnATf3CmCqNTG6kXKSKTtdNfXSh3p",
+  "account_tx": "5tH9LqJ7Xkfg17sWRgRTqX9DTjev4Tzc4cW13rvkNDwBs899s5tiveJafqH8pXWfSvi75HAL9T3LMr9NTbjKs21x",
+  "mint_tx": "5zWkABH1sU6ppH5W9V6BTWMhuEWGUr8HM2Y3LyTU8LT4nEBfGHYRqj3QQJ4CymaEE9k54TFveMoqoBMV9y3rEHZu",
+  "solana_explorer_mint": "https://explorer.solana.com/address/7QZeSGHqFHXzBCJ2nAzwHHk64HGA4MmrFYh6Knhk729k?cluster=devnet",
+  "timestamp": "2026-10-26 16:44:00 UTC"
+}
